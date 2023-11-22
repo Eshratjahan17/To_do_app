@@ -1,5 +1,5 @@
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faHome, faTrash } from
+import {  faTrash } from
  
 '@fortawesome/free-solid-svg-icons';
 import React from 'react';
